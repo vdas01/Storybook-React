@@ -1,0 +1,23 @@
+.input{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.sm{
+    font-size: 4px;
+    padding: 5px;
+}
+
+.md{
+    font-size: 8px;
+    padding: 10px;
+}
+
+.lg{
+    font-size: 16px;
+    padding: 20px;
+}
+
+
+
